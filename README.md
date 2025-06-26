@@ -34,6 +34,8 @@ nltk
 
 scikit-learn
 
+## Output
+![Image](https://github.com/user-attachments/assets/ddbdb74c-a0f1-4bc3-8529-f05c161e5548)
 
 
 
